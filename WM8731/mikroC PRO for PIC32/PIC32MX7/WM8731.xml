@@ -1,0 +1,13 @@
+<WM8731>
+	<Attributes>
+		<Url></Url>
+		<Image></Image>
+		<File></File>
+	</Attributes>
+	<Events>
+		<OnLeftClick></OnLeftClick>
+		<OnRightClick></OnRightClick>
+		<OnDblClick></OnDblClick>
+		<OnMouseOver>PreviewImage</OnMouseOver>
+	</Events>
+</WM8731>

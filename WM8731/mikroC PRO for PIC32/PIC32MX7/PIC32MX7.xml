@@ -1,0 +1,13 @@
+<PIC32MX7>
+	<Attributes>
+		<Url></Url>
+		<Image>TFT_Touch_Panel.jpg</Image>
+		<File></File>
+	</Attributes>
+	<Events>
+		<OnLeftClick></OnLeftClick>
+		<OnRightClick></OnRightClick>
+		<OnDblClick></OnDblClick>
+		<OnMouseOver>PreviewImage</OnMouseOver>
+	</Events>
+</PIC32MX7>

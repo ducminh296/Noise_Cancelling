@@ -1,0 +1,14 @@
+.\objects\audio_in.o: audio_in.c
+.\objects\audio_in.o: C:\Keil_v5\ARM\PACK\CU_SYSC4906\LabF14_DFP\1.0.7\Device\CU\Include\TM4C123\CU_TM4C123.h
+.\objects\audio_in.o: C:\Keil_v5\ARM\PACK\CU_SYSC4906\LabF14_DFP\1.0.7\Device\CU\Include\TM4C123\CU_TM4C123GH6PM.h
+.\objects\audio_in.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm4.h
+.\objects\audio_in.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\audio_in.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h
+.\objects\audio_in.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h
+.\objects\audio_in.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h
+.\objects\audio_in.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmSimd.h
+.\objects\audio_in.o: C:\Keil_v5\ARM\PACK\CU_SYSC4906\LabF14_DFP\1.0.7\Device\CU\Include\TM4C123\CU_system_TM4C123.h
+.\objects\audio_in.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\audio_in.o: audio_in.h
+.\objects\audio_in.o: driverlib/i2c.h
+.\objects\audio_in.o: driverlib/ssi.h

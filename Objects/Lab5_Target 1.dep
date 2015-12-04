@@ -1,0 +1,27 @@
+Dependencies for Project 'Lab5', Target 'Target 1': (DO NOT MODIFY !)
+F (.\audio_in.c)(0x565E8413)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections-I "C:\Users\Minh Mai\OneDrive\MY STUDY\Fall 2015\SYSC 4906 - Special Topic\Labs\Lab 5\RTE"-I "C:\Users\Minh Mai\OneDrive\MY STUDY\Fall 2015\SYSC 4906 - Special Topic\Labs\Lab 5\RTE\Device\TM4C123GH6PM"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\CU_SYSC4906\LabF14_DFP\1.0.7\Device\CU\Include\TM4C123-D__UVISION_VERSION="517" -D_RTE_ -DTM4C123GH6PM-o .\objects\audio_in.o --omf_browse .\objects\audio_in.crf --depend .\objects\audio_in.d)
+I (C:\Keil_v5\ARM\PACK\CU_SYSC4906\LabF14_DFP\1.0.7\Device\CU\Include\TM4C123\CU_TM4C123.h)(0x53C537C8)
+I (C:\Keil_v5\ARM\PACK\CU_SYSC4906\LabF14_DFP\1.0.7\Device\CU\Include\TM4C123\CU_TM4C123GH6PM.h)(0x53C578FE)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm4.h)(0x56265FCC)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55DBD440)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x56264C10)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x56264C10)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x56264C10)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmSimd.h)(0x56264C10)
+I (C:\Keil_v5\ARM\PACK\CU_SYSC4906\LabF14_DFP\1.0.7\Device\CU\Include\TM4C123\CU_system_TM4C123.h)(0x53C41C28)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x55DBD436)
+I (audio_in.h)(0x5658ED72)
+I (driverlib/i2c.h)(0x565E8125)
+I (driverlib/ssi.h)(0x565E8125)
+F (RTE\Device\TM4C123GH6PM\CU_system_TM4C123.c)(0x53C45B8E)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections-I "C:\Users\Minh Mai\OneDrive\MY STUDY\Fall 2015\SYSC 4906 - Special Topic\Labs\Lab 5\RTE"-I "C:\Users\Minh Mai\OneDrive\MY STUDY\Fall 2015\SYSC 4906 - Special Topic\Labs\Lab 5\RTE\Device\TM4C123GH6PM"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\CU_SYSC4906\LabF14_DFP\1.0.7\Device\CU\Include\TM4C123-D__UVISION_VERSION="517" -D_RTE_ -DTM4C123GH6PM-o .\objects\cu_system_tm4c123.o --omf_browse .\objects\cu_system_tm4c123.crf --depend .\objects\cu_system_tm4c123.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55DBD440)
+I (C:\Keil_v5\ARM\PACK\CU_SYSC4906\LabF14_DFP\1.0.7\Device\CU\Include\TM4C123\CU_TM4C123.h)(0x53C537C8)
+I (C:\Keil_v5\ARM\PACK\CU_SYSC4906\LabF14_DFP\1.0.7\Device\CU\Include\TM4C123\CU_TM4C123GH6PM.h)(0x53C578FE)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm4.h)(0x56265FCC)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x56264C10)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x56264C10)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x56264C10)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmSimd.h)(0x56264C10)
+I (C:\Keil_v5\ARM\PACK\CU_SYSC4906\LabF14_DFP\1.0.7\Device\CU\Include\TM4C123\CU_system_TM4C123.h)(0x53C41C28)
+F (RTE\Device\TM4C123GH6PM\CU_system_TM4C123.h)(0x53C41C28)()
+F (RTE\Device\TM4C123GH6PM\startup_TM4C123.s)(0x51B73866)(--cpu Cortex-M4.fp --pd "__EVAL SETA 1" -g --apcs=interwork -I "C:\Users\Minh Mai\OneDrive\MY STUDY\Fall 2015\SYSC 4906 - Special Topic\Labs\Lab 5\RTE"-I "C:\Users\Minh Mai\OneDrive\MY STUDY\Fall 2015\SYSC 4906 - Special Topic\Labs\Lab 5\RTE\Device\TM4C123GH6PM"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\CU_SYSC4906\LabF14_DFP\1.0.7\Device\CU\Include\TM4C123--pd "__UVISION_VERSION SETA 517" --pd "_RTE_ SETA 1" --pd "TM4C123GH6PM SETA 1"--list .\listings\startup_tm4c123.lst --xref -o .\objects\startup_tm4c123.o --depend .\objects\startup_tm4c123.d)

@@ -1,0 +1,13 @@
+<LV32MX>
+	<Attributes>
+		<Url></Url>
+		<Image>LV32MXv6.jpg</Image>
+		<File></File>
+	</Attributes>
+	<Events>
+		<OnLeftClick></OnLeftClick>
+		<OnRightClick></OnRightClick>
+		<OnDblClick></OnDblClick>
+		<OnMouseOver>PreviewImage</OnMouseOver>
+	</Events>
+</LV32MX>
